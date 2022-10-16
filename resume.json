@@ -9,7 +9,7 @@
         "aboutme":"自我介绍"
     },
     "avatar":{
-        "hidden":false
+        "hidden":false,
         "src":"https://user-images.githubusercontent.com/15646325/147406862-19ac2b2a-6dcf-466f-a0dd-53fd1a6abccd.png"
     },
     "profile":{
