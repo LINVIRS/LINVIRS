@@ -10,6 +10,7 @@
     },
     "avatar":{
         "hidden":false,
+        "shape":"circle",
         "src":"https://user-images.githubusercontent.com/15646325/147406862-19ac2b2a-6dcf-466f-a0dd-53fd1a6abccd.png"
     },
     "profile":{
@@ -54,7 +55,7 @@
         {
             "company_name":"南京搬豆网络科技有限公司",
             "department_name":"软件开发部",
-            "work_time":"2019.06,",
+            "work_time":"2019.06,2021.10",
             "work_desc":"担任相关软件后端开发人员",
             "dataIndex":0
         },
@@ -138,7 +139,7 @@
         "aboutme_desc":"🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n    \n    "
     },
     "theme":{
-        "color":"#2f5785",
+        "color":"rgba(91, 143, 249, 1)",
         "tagColor":"#8bc34a"
     }
 }
