@@ -5,7 +5,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/LINVIRS?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://1.15.226.11:8080/)](http://1.15.226.11:8080/)
-
+[![resume](https://img.shields.io/badge/resume-%E7%AE%80%E5%8E%86-green?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://visiky.github.io/resume/?branch=main&user=LINVIRS)](resume)
 
 
 ## 🛠️ My favorite tools
