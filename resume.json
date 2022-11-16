@@ -24,16 +24,7 @@
         "positionTitle":"后端工程师"
     },
     "educationList":[
-        {
-            "edu_time":[
-                "2018.09.01",
-                "2022.06.30"
-            ],
-            "school":"南京工业职业技术大学",
-            "major":"软件工程",
-            "academic_degree":"本科",
-            "dataIndex":0
-        }
+
     ],
     "awardList":[
         {
@@ -54,7 +45,7 @@
     "workExpList":[
         {
             "company_name":"南京搬豆网络科技有限公司",
-            "department_name":"软件开发部",
+            "department_name":"",
             "work_time":"2019.06,2021.10",
             "work_desc":"JAVA后端开发人员",
             "dataIndex":0
@@ -62,7 +53,7 @@
         {
             "work_time":"2011.06,",
             "company_name":"南京新智来网络科技有限公司",
-            "department_name":"软件开发部",
+            "department_name":"",
             "work_desc":"JAVA后端开发人员",
             "dataIndex":1
         }
@@ -105,27 +96,20 @@
             "dataIndex":0
         },
         {
-            "project_name":"手机信息记录",
-            "project_role":"后端开发人员",
-            "project_time":"2021.01- 2021.03 ",
-            "project_desc":"对于相关业务员通话信息，短信信息进行记录。",
-            "project_content":"1.数据库表设计\n2.整体项目构建\n3.相关业务开发\n4.后台相关业务开发\n5.解决通话录音难点\n",
-            "dataIndex":1
-        },
-        {
             "project_time":"2021.04 - 2021.07",
             "project_name":"云相册",
             "project_role":"后端开发人员",
             "project_desc":"基于移动云相关API实现智能化相册，包括相册分类，人脸识别等相关技术。",
-            "project_content":"1.数据库表设计\n2.后端服务框架搭建\n3.相关业务开发\n4.整体项目运维部署\n\n",
-            "dataIndex":2
+            "project_content":"1.数据库表设计 2.后端服务框架搭建 3.相关业务开发 4.整体项目运维部署\n\n",
+            "dataIndex":1
         },
         {
             "project_time":"2021.07 - 2021.10",
             "project_name":"农技云-重构版",
             "project_role":"后端开发人员",
             "project_desc":"对于老旧农技云进行重构，由于老版数据表设计用uuid作为主键，并且积分相关等日志记录导致整个库数据异常臃肿。将老旧版本数据库表结构更改，数据迁移，对老版本进行服务拆分，更改至微服务版本。",
-            "project_content":"1数据库表结构重新设计\n2数据库数据迁移\n3微服务整体框架设计搭建\n3相关服务拆分，对相关接口重新开发\n4部署整体项目\n"
+            "project_content":"1数据库表结构重新设计 2数据库数据迁移 3微服务整体框架设计搭建 4相关服务拆分，对相关接口重新开发   5部署整体项目\n",
+            "dataIndex":2
         }
     ],
     "workList":[
@@ -139,7 +123,7 @@
         "aboutme_desc":"🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n    \n    "
     },
     "theme":{
-        "color":"rgba(91, 143, 249, 1)",
+        "color":"#2f5785",
         "tagColor":"#8bc34a"
     }
 }
